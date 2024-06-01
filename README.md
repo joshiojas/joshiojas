@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=joshiojas&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=533)](https://git.io/streak-stats)
 <br><br>
-[![My Activity Stats for the month](https://github-readme-activity-graph.vercel.app/graph?username=joshiojas&hide_border=true&bg_color=000000&line=120ecc&color=120ecc)]
+[![My Activity Stats for the month](https://github-readme-activity-graph.vercel.app/graph?username=joshiojas&hide_border=true&bg_color=000000&line=120ecc&color=120ecc)](https://github-readme-activity-graph.vercel.app/)
